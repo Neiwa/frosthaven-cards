@@ -8793,7 +8793,7 @@
 						"affectsMultiple": false,
 						"dotShape": "square",
 						"isPersistent": false,
-						"plus1Target": "summon-hp"
+						"plus1Target": "heal"
 					},
 					"id": "6R6Hl"
 				}
